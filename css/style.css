@@ -290,3 +290,13 @@ img{
 .campo__field--textarea{
     height: 20rem;
 }
+
+@media (max-width: 480px){
+    .formulario{
+        background-color: var(--blanco);
+        margin: -5rem auto 0 auto;
+        width: 90%;
+        padding: 2.5rem;
+    }
+}
+
